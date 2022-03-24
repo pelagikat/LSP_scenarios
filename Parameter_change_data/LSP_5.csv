@@ -1,0 +1,37 @@
+﻿fertility rate,0.056
+mortality rate old,0.044328
+reference migration rate young,-4
+reference migration rate mid,0.011
+reference migration rate old,-0.022
+agriculture to forest land allocation time,3
+forest to protected change,30
+forest to agriculture land allocation time,15.2
+forest to housing land allocation time,400
+agriculture to housing land allocation time,400
+housing demolition rate,0.02
+number of times each tourist house occupied per year,41.6
+social housing scenario switch,0
+productivity factor other,560
+elasticity q1 other,0.16
+elasticity q2 other,0.592
+tourist bus frequency,0
+effect of future improvements to infrastructure,1
+species area curve coefficient,1.6
+species area curve exponent,0.688
+INIT species richness,3709.6
+cultural burning scenario switch,0
+disability fraction,0.2124
+intergenerational risk factor,2.16
+disease burden before WW,0.12
+excess disease burden from lowered healthcare access,1.3236
+demand per location,0.8
+households with internet access fraction,0.616
+tower investment responsiveness,0
+tower build delay time,2
+fixed wireless user limit,48
+Forrest Common funding scenario,0
+GTOC funding scenario,0
+Wastewater funding scenario,0
+funding scenario CFA Truck,0
+average number of bus trips per year,124.8
+bus frequency,41.6
